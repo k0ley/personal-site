@@ -1,0 +1,4 @@
+[submodule "eigen-sh/public"]
+	path = eigen-sh/public
+	url = https://github.com/k0ley/eigen.sh.git
+	branch = main
