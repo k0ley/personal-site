@@ -1,4 +1,4 @@
-baseURL = "http://example.org/"
+baseURL = "https://eigen.sh/"
 languageCode = "en-us"
 title = "eigen.sh"
 theme = "coder-portfolio"
@@ -15,26 +15,21 @@ pygmentsUseClasses = true
 
 [params]
     author = "Sam Eigen"
-    description = "eigen.sh"
+    description = "code - hacking - blockchain"
     keywords = "blog,developer,personal,cardano,staking,pool,cybersecurity,netsec,cybersec,python"
     info = "SOFTWARE ENGINEER, BLOCKCHAIN ENTHUSIAST, WHITE-HAT HACKER"
     avatarurl = "images/avatar.jpg"
-    footercontent = "Footer"
-    fixedbarContent = "Some current projects:"
-    fixedbarContentAfter = "Please share it if you like it→"
+    fixedbarContent = "Current projects: "
+    fixedbarContentAfter = "Please don't hesitate to reach out if you have any questions!"
 
     hideCredits = true
     hideCopyright = true
 
-    # Bottom sns share
     snsShare = true
-    # Popular sns share
-    # if you want add sns. please message!
     enableTwitterShare = true
-    enableFacebookShare = true
     enableLinkedInShare = true
 
-    thumbnail = "images/tn.png"
+    thumbnail = "images/thumb.png"
 
     # Custom CSS
     custom_css = []
@@ -75,9 +70,9 @@ pygmentsUseClasses = true
     url = "projects"
 
 [[menu.main]]
-    name = "ADA Staking"
+    name = "Blockchain"
     weight = 3
-    url = "ada"
+    url = "blockchain"
 
 [[menu.main]]
     name = "About"
