@@ -105,7 +105,7 @@ print(clf.score(S2, futureElection))
 ### Visualization
 
 Let's chat. Below is a little chart I put together in Jupyter to ascertain our first question: what feature has the most impact on deciding a counties voting shift?
-![election-vis](/images/chart.png)
+![election-vis](/images/projects/election-ml/chart.png)
 
 The highest weighted coefficients:
 - Population
@@ -122,11 +122,11 @@ This code to visualize this data is all public on my GitHub [here](https://githu
 
 My Machine Learning model built in 2016 to predict 2020 GE results for PA, visualized:
 
-![2016](/images/2016.png)
+![2016](/images/projects/election-ml/2016.png)
 
 The actual election results in 2020 for PA, visualized:
 
-![2020](/images/2020.png)
+![2020](/images/projects/election-ml/2020.png)
 
 
 Maybe you can tell, but the model was only wrong about one county! :) (looking at you, erie county)
