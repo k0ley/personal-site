@@ -51,7 +51,7 @@ pygmentsUseClasses = true
     name = "Twitter"
     icon = "fab fa-twitter"
     weight = 2
-    url = "https://twitter.com/legitneth/"
+    url = "https://twitter.com/eigen_sh"
 [[params.social]]
     name = "LinkedIn"
     icon = "fab fa-linkedin"
